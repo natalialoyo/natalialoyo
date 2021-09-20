@@ -1,6 +1,6 @@
-### Olá!
+### Olá!👋🏽
 
-- 👩🏽Pronouns: she/her
+👩🏽Pronouns: she/her
 
  <div>
   <a href="https://github.com/natalialoyo">
