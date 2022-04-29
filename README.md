@@ -1,12 +1,12 @@
 # **Natália Loyo**
 
-I am a graduate student in Systems Analysis and Development.
+**I am a graduate student in Systems Analysis and Development.**
 
 ## 📈 Profile Stats
- <div align="center">
+ <div align="left">
   <a href="https://github.com/natalialoyo">
-  <img height="145em" src="https://github-readme-stats.vercel.app/api?username=natalialoyo&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" alt="Natalia's Stats"/>
-  <img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natalialoyo&layout=compact&langs_count=7&theme=github_dark" alt="Natalia's used languages"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=natalialoyo&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" alt="Natalia's Stats"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natalialoyo&layout=compact&langs_count=7&theme=github_dark" alt="Natalia's used languages"/>
 </div>
   
 ## 📘 Currently Studying
